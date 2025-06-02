@@ -1,0 +1,19 @@
+:global(body) {
+    margin: 0;
+    padding: 0;
+    min-width: 100vh;
+}
+
+body {
+    min-height: 60vh;
+    background-color: #ffffff;
+    margin: 0px;
+    padding: 0px;
+}
+
+.walloftext {
+    font-family: Sarabun, Arial;
+    color: #000000;
+    font-size: 16px;
+    line-height: 1.8;
+}
