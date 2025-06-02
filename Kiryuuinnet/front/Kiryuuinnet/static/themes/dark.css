@@ -12,10 +12,10 @@ body {
 }
 
 :root {
-    --accent: #ffe2e2;
-    --highlight-color: #ffe2e2;
-    --highlight-text-color: #231e20;
     --main: #231e20;
+    --secondary: #a79095;
+    --accent: #ffe2ec;
+    
 }
 
 :root::-webkit-scrollbar {
@@ -36,20 +36,20 @@ body {
   }
 
 :root::-webkit-scrollbar-thumb:hover {
-    background: var(--highlight-color);
+    background: var(--accent);
   }
 
 ::selection {
-    background: var(--highlight-color);
-    color: var(--highlight-text-color);
+    background: var(--accent);
+    color: var(--main);
   }
 
 .content {
     font-family: Sarabun, Arial;
     color: var(--accent);
     margin-top: 30px;
-    margin-left: 500px;
-    margin-right: 500px;
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
 
 .topic {
@@ -67,4 +67,27 @@ body {
     font-family: Sarabun, Arial;
     font-size: 16px;
     line-height: 1.8;
+}
+
+.top {
+    background-color: var(--secondary);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.logo {
+    margin: 5px;
+    margin-left: 15px;
+    color: var(--accent);
+    -webkit-text-fill-color: var(--accent);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--main);
+    font-family: "Times New Roman";
+    text-decoration: none;
+    font-size: 32px;
+    font-weight: 800;
+
 }
