@@ -21,7 +21,7 @@
 		
 
 		<p class="walloftext">
-			Feel free to DM me. I will usually read your message within 24 hours.
+			Feel free to DM me. I will usually read your message within 24 hours. If not, That means I have no access to the internet, died, on a plane or just not in the mood to reply.
 		</p>
 
 		<h2 class="subtopic">My socials</h2>
