@@ -9,6 +9,7 @@ body {
     background-color: var(--main);
     margin: 0px;
     padding: 0px;
+    overflow: overlay;
 }
 
 :root {
@@ -16,8 +17,7 @@ body {
     --main: #231e20;
     --secondary: #937780;
     --teritary: #a79095 ;
-    --accent: #ffe2ec;
-    
+    --accent: #ffe2ec; 
 }
 
 :root::-webkit-scrollbar {
@@ -28,11 +28,11 @@ body {
   }
 
 :root::-webkit-scrollbar-track {
-    background: #170a10;
+    background: var(--main);
   }
 
 :root::-webkit-scrollbar-thumb {
-    background: #260f1a;
+    background: var(--teritary);
     border-radius: 2px;
 
   }
@@ -69,9 +69,7 @@ body {
 
 .subtopic {
     font-size: 40px;
-    font-weight: About
-About Kiryuuin
-Hi I'm Kiryuuin. I'm a music producer that usually does remixes on my Youtube channel600;
+    font-weight: 600;
 }
 
 .walloftext {
@@ -135,7 +133,8 @@ Hi I'm Kiryuuin. I'm a music producer that usually does remixes on my Youtube ch
 }
 
 .imagecontainer {
-    display: block;
+    display: flex;
+    justify-content: center;
     margin-left: auto;
     margin-right: auto;
     width: 40%;
