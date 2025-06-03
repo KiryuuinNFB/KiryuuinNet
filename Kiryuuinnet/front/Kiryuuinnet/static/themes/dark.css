@@ -52,6 +52,13 @@ body {
     margin-right: 25vw;
 }
 
+.bigtopic {
+    text-align: center;
+    font-family: Sarabun, Arial;
+    font-size: 80px;
+    font-weight: 800;
+}
+
 .topic {
     font-family: Sarabun, Arial;
     font-size: 70px;
@@ -79,15 +86,6 @@ body {
 }
 
 .logo {
-    margin: 5px;
-    margin-left: 15px;
-    color: var(--accent);
-    -webkit-text-fill-color: var(--accent);
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: var(--main);
-    font-family: "Times New Roman";
-    text-decoration: none;
-    font-size: 32px;
-    font-weight: 800;
+    margin-left: 10px;
 
 }
