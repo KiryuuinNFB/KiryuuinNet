@@ -1,5 +1,5 @@
 <script>
-	let sitetitle = "Kiryuuinnet";
+	let sitetitle = "KiryuuinNet";
 	import Heading from "../head.svelte"
 </script>
 

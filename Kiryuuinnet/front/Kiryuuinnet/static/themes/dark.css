@@ -12,8 +12,10 @@ body {
 }
 
 :root {
+    --white: #FFFFFF;
     --main: #231e20;
-    --secondary: #a79095;
+    --secondary: #937780;
+    --teritary: #a79095 ;
     --accent: #ffe2ec;
     
 }
@@ -67,11 +69,29 @@ body {
 
 .subtopic {
     font-size: 40px;
-    font-weight: 600;
+    font-weight: About
+About Kiryuuin
+Hi I'm Kiryuuin. I'm a music producer that usually does remixes on my Youtube channel600;
 }
 
 .walloftext {
     font-family: Sarabun, Arial;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.walloftextlink {
+    color: var(--accent);
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    text-decoration: none;
+    font-family: Sarabun, Arial;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.walloftextlink:hover {
+    color: var(--teritary);
     font-size: 16px;
     line-height: 1.8;
 }
@@ -87,5 +107,37 @@ body {
 
 .logo {
     margin-left: 10px;
-
 }
+
+.topbutton {
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    font-family: Sarabun, Arial;
+    font-size: 22px;
+    color: var(--white);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.topbutton:hover {
+    
+    color: var(--white);
+    border-radius: 16px;
+    background-color: var(--teritary);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.image {
+    border-radius: 16px;
+}
+
+.imagecontainer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
