@@ -7,8 +7,8 @@
     <div class="buttons">
         <a class="topbutton" href="/commission">Commission</a>
         <a class="topbutton" href="/about">About</a>
-        <a class="topbutton" href="/about">Blog</a>
-        <a class="topbutton" href="/about">Music</a>
+        <a class="topbutton" href="/blog">Blog</a>
+        <a class="topbutton" href="/music">Music</a>
         <a class="topbutton" href="/contact">Contact</a>
     </div>
 </header>

@@ -29,5 +29,7 @@
 			Youtube : <a href="https://www.youtube.com/@KiryuuinNFB" class="walloftextlink">Kiryuuin / NFB Production</a><br>
 			Github : <a href="https://github.com/KiryuuinNFB" class="walloftextlink">KiryuuinNFB</a><br>
 		</p>
+		<div class="emptyspace">
+		</div>
 	</div>
 </body>
