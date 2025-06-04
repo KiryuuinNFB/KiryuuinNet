@@ -16,7 +16,7 @@
 			I'm this person.
 		</p>
 		<div class="imagecontainer">
-			<img src="https://media.discordapp.net/attachments/645528014691631105/1379497999952122018/image.png?ex=68407521&is=683f23a1&hm=2eb77aecc86e71a4670b56e196390776816ba795862704771d77b3c8b5fe109c&=&format=webp&quality=lossless" alt="Astolfo Paladino" height="300" class="image">
+			<img src="https://cdn.discordapp.com/attachments/645528014691631105/1379497999952122018/image.png?ex=6841c6a1&is=68407521&hm=083370b25a272a5a68d17f3ce5022a61425c346ac234fb3c505c5ef958590c23&" alt="Astolfo Paladino" height="300" class="image">
 		</div>
 		
 
