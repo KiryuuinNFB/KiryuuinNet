@@ -24,9 +24,9 @@
 		<h2 class="subtopic">About this site</h2>
 		<div class="walloftext">
 			<p>
-				This site is a place for me to write about myself and other blogs too.
+				This site is a place for me to write about myself and other blogs. 
 				It's also for downloading and archiving my music and remixes. Where you can also download high quality instrumentals without joining my server.
-				My commission status and queue is also shown in this website.
+				My commission status and queue is also shown in this website. There are also contents that is not on my Youtube channel.
 			</p>
 		</div>
 		<h2 class="subtopic">Questions you might have about me</h2>

@@ -17,7 +17,10 @@ body {
     --main: #231e20;
     --secondary: #937780;
     --teritary: #a79095 ;
-    --accent: #ffe2ec; 
+    --accent: #ffe2ec;
+    --cms-finished: #6ae97b;
+    --cms-doing: #e9d26a;
+    --cms-dibs: #6aa1e9;
 }
 
 :root::-webkit-scrollbar {
@@ -144,4 +147,16 @@ body {
     background-color: var(--main);
     height: 100px;
     width: 100px
+}
+
+.cmsbox {
+    padding: 16px;
+    background-color: var(--main);
+    border: 1px solid var(--secondary);
+    border-radius: 8px;
+}
+
+.cmsstatus {
+    font-size: 30px;
+    font-weight: 500;
 }

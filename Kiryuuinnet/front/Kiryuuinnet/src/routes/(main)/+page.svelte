@@ -9,7 +9,7 @@
     <div class="content">
         <h1 class="bigtopic">Welcome to my site</h1>
 		<div class="imagecontainer">
-				<img src="https://media.discordapp.net/attachments/645528014691631105/1379522998624850011/image.png?ex=68408c69&is=683f3ae9&hm=04f32d4edf4ec17fb5d91c9cb2265ff4ac7178f4d03baba3645c3567169de0a0&=&format=webp&quality=lossless" alt="Kiryuuin /NFB Production" class="image">
+				<img src="/assets/channel.png" alt="Kiryuuin /NFB Production" class="image">
 			</div>
 		<div class="walloftext">
 			<p>
