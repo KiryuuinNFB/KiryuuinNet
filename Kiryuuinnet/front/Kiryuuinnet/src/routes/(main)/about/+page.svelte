@@ -11,7 +11,7 @@
 		
 		<h2 class="subtopic">About me personally</h2>
 		<div class="imagecontainer">
-			<img src="https://cdn.discordapp.com/attachments/645528014691631105/1379535374422118511/20250301_013929.jpg?ex=684097ef&is=683f466f&hm=b6a2bc9732dbda5458c260e17a9b788545d4a2a5b2d91e2bfc03bfb6a79b4c18&" alt="my legs and my pc" class="image" height="500">
+			<img src="/assets/me.jpg" alt="my legs and my pc" class="image" height="500">
 		</div>
 		<div class="walloftext">
 			<p>
