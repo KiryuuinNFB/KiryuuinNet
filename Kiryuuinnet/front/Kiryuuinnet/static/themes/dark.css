@@ -19,8 +19,9 @@ body {
     --teritary: #a79095 ;
     --accent: #ffe2ec;
     --cms-finished: #6ae97b;
-    --cms-doing: #e9d26a;
+    --cms-doing: #ffd82a;
     --cms-dibs: #6aa1e9;
+    --cms-free: #a8a8a8;
 }
 
 :root::-webkit-scrollbar {
@@ -143,6 +144,14 @@ body {
     width: 40%;
 }
 
+.queuecontainer {
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
 .emptyspace {
     background-color: var(--main);
     height: 100px;
@@ -150,7 +159,8 @@ body {
 }
 
 .cmsbox {
-    padding: 16px;
+    padding: 32px;
+    margin: 8px;
     background-color: var(--main);
     border: 1px solid var(--secondary);
     border-radius: 8px;
@@ -159,4 +169,32 @@ body {
 .cmsstatus {
     font-size: 30px;
     font-weight: 500;
+}
+
+.cmssmallboxfin {
+    background-color: var(--cms-finished);
+    height: 16px;
+    width: 16px;
+    border-radius:  50%;
+}
+
+.cmssmallboxdo {
+    background-color: var(--cms-doing);
+    height: 16px;
+    width: 16px;
+    border-radius:  50%;
+}
+
+.cmssmallboxdibs {
+    background-color: var(--cms-dibs);
+    height: 16px;
+    width: 16px;
+    border-radius:  50%;
+}
+
+.cmssmallboxfree {
+    background-color: var(--cms-free);
+    height: 16px;
+    width: 16px;
+    border-radius: 50%;
 }

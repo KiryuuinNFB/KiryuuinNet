@@ -11,7 +11,7 @@
 		
 		<h2 class="subtopic">About me personally</h2>
 		<div class="imagecontainer">
-			<img src="/assets/me.jpg" alt="my legs and my pc" class="image" height="500">
+			<img src="/assets/me2.jpg" alt="my legs and my pc" class="image" height="500">
 		</div>
 		<div class="walloftext">
 			<p>

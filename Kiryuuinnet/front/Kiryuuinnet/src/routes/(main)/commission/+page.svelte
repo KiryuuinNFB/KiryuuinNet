@@ -8,7 +8,7 @@
 <body>
 	<div class="content">
 		<h1 class="topic">Commission me</h1>
-        <p class="walloftext">You can commission me by <a href="/contact" class="walloftextlink">directly contacting me</a>.</p>
+        <p class="walloftext">You can commission me by directly contacting me <a href="/contact" class="walloftextlink">here</a>.</p>
 	</div>
 	<div class="content">
 			<div class="cmsbox">
@@ -16,8 +16,21 @@
 				<div class="imagecontainer">
 					<h2 class="cmsstatus">Queue</h2>
 				</div>
-				
+				<div class="queuecontainer">
+					<div class="cmssmallboxfin"></div>
+					<div class="cmssmallboxdo"></div>
+					<div class="cmssmallboxdibs"></div>
+					<div class="cmssmallboxfree"></div>
+					<div class="cmssmallboxfree"></div>
+					
+				</div>
 
+			</div>
+			<div class="walloftext">
+				<p>
+					insert details about cms here <br>
+					also insert music sample here
+				</p>
 			</div>
 	</div>
 	
