@@ -1,10 +1,13 @@
 import { Elysia, file} from "elysia";
-import { quote } from "./quote";
 import { swagger } from '@elysiajs/swagger'
 
-const app = new Elysia();
+const app = new Elysia().use(swagger());
 
-
+app.get('/', () => {
+  return {
+    msg: "lmao"
+  }
+})
 
 console.log(
   `Elysia at http://${app.server?.hostname}:${app.server?.port}`
