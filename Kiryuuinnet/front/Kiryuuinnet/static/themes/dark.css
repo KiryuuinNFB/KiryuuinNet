@@ -198,3 +198,10 @@ body {
     width: 16px;
     border-radius: 50%;
 }
+
+.quote {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}

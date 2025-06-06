@@ -19,6 +19,12 @@
 				A rough character build calculator and database for Honkai: Star Rail. 
 			</p>
 		</div>
+		<div class="quote">
+			<p class="walloftext">
+				"Svelte is the eco friendly wood veneer and SvelteKit is the galvanized square steel and screws borrowed from aunt"
+				- Kiryuuin
+			</p>
+		</div>
     </div>
 	<div class="emptyspace"></div>
 </body>

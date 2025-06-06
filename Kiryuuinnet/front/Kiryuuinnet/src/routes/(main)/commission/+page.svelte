@@ -27,9 +27,15 @@
 
 			</div>
 			<div class="walloftext">
+				<h2 class="subtopic">Song Samples</h2>
 				<p>
 					insert details about cms here <br>
 					also insert music sample here
+				</p>
+				<h2 class="subtopic">Pricing</h2>
+				<p>
+					5,000,000 BAHT FOR EACH MINUTE <br>
+					
 				</p>
 			</div>
 	</div>
