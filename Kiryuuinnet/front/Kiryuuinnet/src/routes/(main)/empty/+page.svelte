@@ -1,15 +1,17 @@
 <script lang="ts">
 	import { onMount } from "svelte";
 
-	let data: string;
+	let data, res;
 
 	let sitetitle = "Empty | KiryuuinNet";
 	import Heading from "../../head.svelte"
 	
 
 	onMount(async () => {
-		const response = await fetch('http://localhost:3000/json')
-		data = await response.json() as string;
+		const response = await fetch('http://localhost:3000/')
+		const data = await response.json();
+
+		res = data.msg
 	});
 </script>
 
